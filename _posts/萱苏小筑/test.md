@@ -1,0 +1,15 @@
+---
+title: test
+english_title:
+top: 0
+date:
+categories: 
+tags: 
+-
+fancybox:
+comments: true
+permalink:
+description:
+---
+
+<!--more-->
